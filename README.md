@@ -1,4 +1,4 @@
-# 1.What is your project about
+## 1.What is your project about
 
 "MovieCheck", Movie Information App
 
@@ -12,7 +12,7 @@ I wanted to know what movies are available in theatre and which movie is the mos
 
 ## 4.What reference did you use?
 
-Udemy
+Reactjs document, Udemy, Qiita
 
 ## 5.What libraries/technology/api you used
 
